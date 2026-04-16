@@ -1,42 +1,41 @@
 # basic information
-name: khang nguyen
-profile-pic: assets/img/new_pic.jpg
-pronunciation: /kʰæŋ/
-pronunciation-emoji: 🎧
+name: Phillip Ruscica
+profile-pic: assets/img/profile_pic.jpg
+
 
 # emoji indicator
-emoji: 🍀
-desc-emoji: four-leaf clover
+emoji: 🥽 
+desc-emoji: Virtual Reality Headset
 
 # social links
 scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
-researchgate: https://www.researchgate.net/profile/Khang-Nguyen-133
-github: https://github.com/mkhangg
-youtube: https://www.youtube.com/@_m.khangg_
-resume: assets/doc/Resume_KhangNguyen.pdf
-projects: show            # delete "show" or leave it blank to hide this icon
-location: https://maps.app.goo.gl/ChzvajkDzdL4RxEJ7
-codepen: 
-orcid: https://orcid.org/0000-0003-3471-5533
+researchgate: https://www.researchgate.net/profile/Phillip-Ruscica
+github: https://github.com/Phillip-Ruscica
+#youtube: https://www.youtube.com/@_m.khangg_
+#resume: assets/doc/Resume_KhangNguyen.pdf
+#projects: show            # delete "show" or leave it blank to hide this icon
+#location: https://maps.app.goo.gl/ChzvajkDzdL4RxEJ7
+#codepen: 
+orcid: https://orcid.org/my-orcid?orcid=0009-0007-1564-3040
 contact: show            # delete "show" or leave it blank to hide this icon
 
 # information for contact card
-dept: cse @ uta
-lab: learn lab @ erb 128
-email: khang.nguyen@uta.edu
-phone: +1 (470) 815-5812
-website: https://mkhangg.com/
-web-dns: mkhangg.com
+dept: DPES @ UTSC
+lab: Ecological Modeling lab & DPES Hive
+email: phillip.ruscica@mail.utoronto.ca
+#phone: +1 (470) 815-5812
+website: https://uoft.me/dpeshive
+web-dns: uoft.me/dpeshive
 
 # about me
-first-paragraph: I am a research assistant at the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> affiliated with the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank" rel="noopener">University of Texas at Arlington</a> under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=huber" target="_blank" rel="noopener">Dr. Manfred Huber</a>, building upon the research I initiated during my undergraduate studies here. (◕▿◕)
-second-paragraph: I grew up in <a href="https://en.wikipedia.org/wiki/Saigon" target="_blank" rel="noopener">Saigon, Vietnam</a>, and was fortunate to spend my most memorable time at the <a href="https://en.wikipedia.org/wiki/VNU-HCM_High_School_for_the_Gifted" target="_blank" rel="noopener">VNU-HCM High School for the Gifted</a> (informatics program of 2020) and previously <a href="https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Ngh%C4%A9a_High_School_for_the_Gifted" target="_blank" rel="noopener">TĐN Secondary School for the Gifted</a> (mathematics program of 2017) with very good friends - too many to name them here, where we played football (soccer) on concrete fields together afterschool.
-research-introduction: I do research in robotics, mainly focusing on applying <code>cognitive architectures to robotic grasping</code> to enable robots with a closely similar human grasping capability. Just imagine the robot enters the kitchen, finds a banana, grasps without crushing it, and brings it back to you.
+first-paragraph: I am a PhD candidate at the <hightlight>Ecological Modelling Lab & DPES HIVE, </hightlight> affiliated with the <a href="https://www.utsc.utoronto.ca/physsci/" target="_blank" rel="noopener">University of Toronto Scarborough </a> under the guidance of <a href="https://www.utsc.utoronto.ca/physsci/george-arhonditsis" target="_blank" rel="noopener">Dr. George Arhonditsis</a> and <a href="https://www.utsc.utoronto.ca/physsci/heidi-daxberger" target="_blank" rel="noopener"> Dr. Heidi Daxberger</a>, building a state-of-the-art VR facility and designing studies to expand research in the department.
+#second-paragraph: I grew up in <a href="https://en.wikipedia.org/wiki/Saigon" target="_blank" rel="noopener">Saigon, Vietnam</a>, and was fortunate to spend my most memorable time at the <a href="https://en.wikipedia.org/wiki/VNU-HCM_High_School_for_the_Gifted" target="_blank" rel="noopener">VNU-HCM High School for the Gifted</a> (informatics program of 2020) and previously <a href="https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Ngh%C4%A9a_High_School_for_the_Gifted" target="_blank" rel="noopener">TĐN Secondary School for the Gifted</a> (mathematics program of 2017) with very good friends - too many to name them here, where we played football (soccer) on concrete fields together afterschool.
+#research-introduction: I do research in robotics, mainly focusing on applying <code>cognitive architectures to robotic grasping</code> to enable robots with a closely similar human grasping capability. Just imagine the robot enters the kitchen, finds a banana, grasps without crushing it, and brings it back to you.
 
 research-interests:
 
-  - field: Robotic Perception
-    subfields: semantic scene understanding, perception for grasping
+  - field: Geology & Environmental Science
+    subfields: Quaternary geology, Geographic Information Systems (GIS), 
   
-  - field: Robotic Manipulation
-    subfields: learning to grasp, manipulative visual-motor skills
+  - field: Immersive Technologies
+    subfields: Human-Computer Interaction, Pedagogy in Virtual Reality Experiences
