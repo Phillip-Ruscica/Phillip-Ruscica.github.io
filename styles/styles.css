@@ -1023,3 +1023,25 @@ canvas {
     height: 100%;
     z-index: -1;
 }
+
+
+/* Footer affiliation logos: reversed (white) logos sit on U of T blue */
+.footer-logo {
+    background-color: #1e3765;
+    padding: 6px 10px;
+    border-radius: 4px;
+    margin-left: 6px;
+    height: 44px;
+    width: auto;
+}
+
+
+/* Updates carousel: crop photos to a uniform height; logos are shown whole */
+.news-card img {
+    height: 140px;
+    object-fit: cover;
+}
+.news-card img.news-img-contain {
+    object-fit: contain;
+    padding: 12px;
+}
